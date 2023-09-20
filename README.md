@@ -12,10 +12,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Ysadsir/cv">
-    <img src="images/photo.png" alt="Logo" width="80" height="80">
-  </a>
-
 <h3 align="center">CV in Html5 and Css3</h3>
   <p align="center">
     <br />
